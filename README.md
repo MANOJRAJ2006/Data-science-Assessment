@@ -53,6 +53,6 @@ This project demonstrates how to implement *Simple Linear Regression* from scrat
 
 🧑‍💻 Author
 
-Made with ❤ by [MANOJRAJ G]
+Made with  by [MANOJRAJ G]
 
 ---
